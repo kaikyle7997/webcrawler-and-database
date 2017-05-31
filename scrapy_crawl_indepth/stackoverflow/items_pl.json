@@ -1,0 +1,50 @@
+{"header": ["Nullable custom form entity with Symfony"], "solvers": ["FR073N"]}
+{"header": ["JTA container managed transaction rollback not working for jaxrs endpoint"], "solvers": ["allancth"]}
+{"header": ["Tensorflow 0.8 Import and Export output tensors problems"], "solvers": ["nessuno"]}
+{"header": ["Netbeans 8.1 Gnome 3 GTK+ UI Font"], "solvers": ["Thomas", "Denis Tulskiy"]}
+{"header": ["adb touchscreen swipe fail in a call"], "solvers": ["Tabish Javed"]}
+{"header": ["Samsung “App optimisation” feature kills background applications after 3 days"], "solvers": ["Enrico", "Haidar"]}
+{"header": ["Access to the path ' ' is denied, when i copy a text file to another folder on server"], "solvers": ["fofik", "BunkerMentality", "ajit", "Jean-François", "Alex Kudryashev"]}
+{"header": ["Column missing from excel spreedshet"], "solvers": ["Macro Man", "Venky", "Aloraman", "Kevin B Burns"]}
+{"header": ["How to get rid of DLL .reloc section using MinGW-gcc?"], "solvers": ["Kuba Ober", "Philip Dahnen"]}
+{"header": ["How to correctly prevent caching of 302 redirect location?"], "solvers": ["Testo Testini", "Troncador", "Dr. Rhino", "SkyWalker", "prad121"]}
+{"header": ["How to add extra field “Dropdown List” in Magento One Page Checkout"], "solvers": ["Steven Zurek"]}
+{"header": ["facebook javascript sdk login not working on iOS / best practices for mobile"], "solvers": []}
+{"header": ["Getting information with web scraping from multiple screen web page"], "solvers": ["Technophobe01", "vijucat"]}
+{"header": ["ImportError: No module named _builtin when trying to run .exe"], "solvers": []}
+{"header": ["ASP.Net core project hosting on service fabric dos not start"], "solvers": ["Mike Mazmanyan"]}
+{"header": ["PayPal - Get transaction details for recurring profile"], "solvers": ["Mukesh Ram", "Sanjeev"]}
+{"header": ["Submitting scores to Google Play Games leaderboards and displaying new rank(s)"], "solvers": []}
+{"header": ["How can I use Webpack in an Ionic Version 1 app? (Is it possible/are there alternatives?)"], "solvers": ["Bogdan Savluk"]}
+{"header": ["Unable to add apple id because the '10' app id limit in '7' days has been exceeded?"], "solvers": ["Fady Lateef", "Arch", "Raj"]}
+{"header": ["Fail to apply mapping on an RDD on multipe spark nodes through Elasticsearch-hadoop library"], "solvers": ["Tristan"]}
+{"header": ["Hook the global name lookup in a python interpreter"], "solvers": ["Valentin Lorentz"]}
+{"header": ["How to get around Apple app ID insanity"], "solvers": ["user3739902", "Anand Prem", "haquangvu"]}
+{"header": ["Where can I change mail daemon address on a Exim4 server?"], "solvers": ["jakob"]}
+{"header": ["How to add two touching toolbar items to NSToolbar"], "solvers": ["Jon"]}
+{"header": ["Add Text to individual segments of video using SCRecorder in iOS"], "solvers": []}
+{"header": ["Problems in JCIFS with certain non-ascii characters"], "solvers": ["vzamanillo", "SkyWalker"]}
+{"header": ["Webpack SASS loader cannot dedupe common SCSS imports"], "solvers": ["Matt Derrick"]}
+{"header": ["Rails 4 saving fields in a similar manner to wordpress options table"], "solvers": ["Drew Reynolds", "Pavittar Gill", "Anand"]}
+{"header": ["ServerConnection.Cancel method"], "solvers": []}
+{"header": ["Process.Start url with hidden WindowStyle"], "solvers": ["hoodaticus", "\r\n        Hans Passant\r\n        "]}
+{"header": ["Check Array Object as Part of WHERE Clause"], "solvers": ["Jehy"]}
+{"header": ["Detect on calloutAccessoryControlTapped only the tap on rightCalloutAccessoryView"], "solvers": ["Ramis", "wj2061"]}
+{"header": ["jQuery - noConflict() issue"], "solvers": ["Paulpro", "Hors Sujet", "Parag Bhayani", "Ryan Wheale"]}
+{"header": ["Too many LOGS getting generated for Hystrix-AMQP"], "solvers": ["tommus"]}
+{"header": ["Is there a way for a Java app to gain root permissions?"], "solvers": ["Linuslabo", "Stephan Henningsen", "Vladislav Kysliy"]}
+{"header": ["C# Reading MultiPart response contents as they arrive"], "solvers": ["Ed Huber"]}
+{"header": ["How to (systematically) tune learning rate having Gradient Descent as the Optimizer?"], "solvers": ["Simon", "iratzhash", "Alireza"]}
+{"header": ["ActiveModelSerializers Polymorphic Json"], "solvers": ["peregrine42"]}
+{"header": ["How to crop biggest rectangle out of an image"], "solvers": ["Piglet", "Kamyar Infinity"]}
+{"header": ["Create a prolog program that solves the peg jump puzzle"], "solvers": ["Will Ness", "mat", "Will Ness", "CapelliC", "Cary Swoveland", "Aspersum"]}
+{"header": ["ScriptingOptions sql smo does not support scripting data"], "solvers": ["Alex"]}
+{"header": ["Angular ui-router resolves called twice"], "solvers": ["Zakaria", "BatteryAcid"]}
+{"header": ["Filtering CGridView with custom textfield"], "solvers": ["Jody Boucher", "tinybyte"]}
+{"header": ["Hazelcast working in mutlinode"], "solvers": ["noctarius"]}
+{"header": ["How to use GIT LFS to track iOS frameworks?"], "solvers": []}
+{"header": ["How to insert _id field from mapreduce program"], "solvers": ["alpert"]}
+{"header": ["limitations of using @Html.EditorForModel"], "solvers": ["Gökhan Kurt"]}
+{"header": ["Precise control over Androids AnimatedVectorDrawable"], "solvers": ["Rafay Ali"]}
+{"header": ["How can I set the color of android rating bar's stroke? (Not the color of the stars but the BORDER)"], "solvers": ["KDeogharkar", "Yoann Hercouet"]}
+{"header": ["Resolving references in ASP.Net 5, “IDisposable is … not referenced”"], "solvers": ["Nkosi"]}
